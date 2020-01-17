@@ -8,6 +8,7 @@ import Browser.Navigation as Nav
 import Element exposing (..)
 import Element.Border as Border
 import Element.Font as Font
+import Element.Events as Events
 import Element.Background as Background
 import Data exposing (..)
 
